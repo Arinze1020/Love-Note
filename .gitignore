@@ -1,2 +1,3 @@
 love
 gitignore
+__pycache__
